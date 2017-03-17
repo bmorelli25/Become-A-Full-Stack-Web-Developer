@@ -224,6 +224,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 
 * Coding Challenge Websites [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5oxwjj/any_good_sitesapps_for_small_coding_exercises/) [[Reddit Link #2]](https://www.reddit.com/r/learnprogramming/comments/5g3xgi/anyone_knows_the_name_of_a_website_to_learn_to/)
   * [Medium - 10 most popular coding challenge sites of 2016](https://medium.com/coderbyte/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f#.fn8c7imvk)
+  * [Codechef](https://www.codechef.com/)
   * [Code Wars](https://www.codewars.com/)
   * [Coding Game](https://www.codingame.com)
   * [Hacker Rank (some debate about this being good/bad](https://www.hackerrank.com/domains/cpp/cpp-introduction)
