@@ -160,8 +160,10 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
   * [Distance Calculator Web Services API](https://developers.google.com/maps/documentation/distance-matrix/start)
 
 ---
-### Full Stack 
+### Full Stack
 * //Needs work
+
+* [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
 * [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
 * [Express - Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
 * [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)
