@@ -1,10 +1,8 @@
 ## 100+ Free resources for learning Full Stack Web Development.
 
-18 months ago I dove head first into Full Stack Web Development. I'm a chronic bookmarker and note-taker, so anything that I have found useful I've saved along the way. I finally had some time to dive in sort everything out! The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you!). 
+The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on Javascript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
 
-As you'll see, I've focused on Javascript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs. The point is, whether you're just starting to learn, or you've been learning for a while, there should be a little something for everyone.
-
-Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and adding links as I go!
+I've still got a lot of bookmarks to go through, so I'll be updating and adding links as I go. If you have a contribution, please feel free to submit a PR!
 
 ---
 
@@ -12,21 +10,23 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
 1. **[Start Here](#start-here)**
 2. **[How to learn](#how-to-learn)**
 3. **[What is the Most Useful CS Bookmark You have](#what-is-the-single-most-useful-cs-bookmark-you-have)**
-4. **[Free Full-Stack Programs & Classes](#free-full-stack-programs-classes-and-tutorials)**
+4. **[Programs & Classes](#programs-and-classes)**
 5. **[Learn HTML](#learn-html)**
 6. **[Learn CSS](#learn-css)**
 7. **[Learn Javascript](#learn-javascript)**
 8. **[Learn React.js](#learn-react-js)**
-9. **[Learn Node.js](#learn-node-js)**
-10. **[Learn APIs](#learn-apis)**
-11. **[Full Stack](#full-stack)**
-12. **[Learn Git](#learn-git)**
-13. **[Games & Challenge Websites](#games-and-challenge-websites)**
-14. **[Free Programming Books](#free-programming-books)**
-15. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
-16. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
-17. **[Software Developer Success Stories](#software-developer-success-stories)**
-18. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
+9. **[Full Stack Tutorials](#full-stack-tutorials)**
+10. **[Learn Node.js](#learn-node-js)**
+11. **[Learn APIs](#learn-apis)**
+12. **[Learn Databases](#learn-databases)**
+13. **[Learn Authentication](#learn-authentication)**
+14. **[Learn Git](#learn-git)**
+15. **[Games & Challenge Websites](#games-and-challenge-websites)**
+16. **[Free Programming Books](#free-programming-books)**
+17. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
+18. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
+19. **[Software Developer Success Stories](#software-developer-success-stories)**
+20. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
 ### Start Here
@@ -56,23 +56,15 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 
 ---
-### Free Full-Stack Programs, Classes, and Tutorials
+### Programs and Classes
 * Programs
   * [The Odin Project](http://www.theodinproject.com/)
   * [Free Code Camp](https://www.freecodecamp.com/)
   * [The Essential Web Developer Course](http://upskillcourses.com/p/essential-web-developer-course)
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
-* Tutorials
-  * [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)
-  * [Building web app using react.js, express.js, node.js and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2
-  * [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts
-  * [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
-  * [Building a React Universal Blog App: A Step-by-Step Guide](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
-  * [Building a Secure RESTful Node.js app](http://thejackalofjavascript.com/architecting-a-restful-node-js-app/)
-* Cool stuff other people have built:
-  * [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
-  * [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
+  * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
+
 ---
 ### Assorted Reddit Links (Still need to sort)
 * Tutorial/Screencast: [Let's Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
@@ -83,17 +75,19 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
 * What to do after Colt Steele's course
   * [Watch And Code](https://watchandcode.com/)
 * [RegexOne](http://regexone.com/) - Learn Regular Expressions
-* [MongoDB University](https://university.mongodb.com/courses/catalog) - Learn Mongo + Node
 * [Google University Github Repo](https://github.com/jwasham/coding-interview-university)
 
 ---
 ### Learn HTML
+*Anyone have any cool HTML links?*
 
 ---
 ### Learn CSS
 
 * [Everything you need to know about Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc) *Seriously the best Flexbox resource I've found*
 * A visual guide to CSS - [CSS Reference](http://cssreference.io/)
+* [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - A collection of tips to help take your CSS skills pro.
+* [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
 
 ---
 ### Learn Javascript
@@ -139,6 +133,31 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
   * [Angular JS vs React JS (Medium)](https://medium.com/@paramsingh_66174/angularjs-vs-reactjs-e651a194dfcb#.bbx4qapwu)
 
 ---
+### Full Stack Tutorials
+
+* [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
+* [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
+* [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
+* [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
+* [Express - Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
+* [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)
+* [Node JS and Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
+* [Express JS Database Integration](https://expressjs.com/en/guide/database-integration.html)
+* [MERN Stack Tutorial - Mongo, Express, React, Node](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50#.xfd2ixtz6)
+* [MongoDB MERN Tutorial Series](https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack)
+* [Full Stack MERN Tutorial - Youtube](https://www.youtube.com/watch?v=cV-bGvnRZdw)
+* [Build a URL Shortener with Node, Hapi, and Mongo](https://codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)
+* [Building web app using react.js, express.js, node.js and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2
+* [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts
+* [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+* [Building a React Universal Blog App: A Step-by-Step Guide](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
+* [Building a Secure RESTful Node.js app](http://thejackalofjavascript.com/architecting-a-restful-node-js-app/)
+* Cool stuff other people have built:
+* [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
+* [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
+
+---
 ### Learn Node JS
 
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
@@ -149,30 +168,36 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
 * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Node JS Login with Passport - Youtube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+* [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ---
 ### Learn APIs
 
 * Where to start with learning APIs [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5761ir/where_to_start_with_learning_how_to_use_apis/)
   * [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)
+  * [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
   * [Free Intro to APIs Book/Course by Zapier](https://zapier.com/learn/apis/)
   * [Google Maps API](https://developers.google.com/maps/documentation/)
   * [Distance Calculator Web Services API](https://developers.google.com/maps/documentation/distance-matrix/start)
+  * [Build and Secure a Backend API Server](https://www.udacity.com/course/designing-restful-apis--ud388)
 
 ---
-### Full Stack
-* //Needs work
+### Learn Databases
+* [SQL vs NoSQL](https://www.digitalocean.com/community/tutorials/understanding-sql-and-nosql-databases-and-different-database-models)
+* [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) - SQL, DB-API, and More!
+* [MongoDB University](https://university.mongodb.com/) - Numerous classes on learning MongoDB
+* [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/)
+* [PostgreSQL Exercises](https://pgexercises.com/)
+* [Learn PostgreSQL (Github)](https://github.com/dwyl/learn-postgresql)
+* [Try Redis](https://try.redis.io/)
+* [Redis Tutorial](https://www.tutorialspoint.com/redis/)
 
-* [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
-* [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
-* [Express - Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
-* [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)
-* [Node JS and Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
-* [Express JS Database Integration](https://expressjs.com/en/guide/database-integration.html)
-* [MERN Stack Tutorial - Mongo, Express, React, Node](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50#.xfd2ixtz6)
-* [MongoDB MERN Tutorial Series](https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack)
-* [Full Stack MERN Tutorial - Youtube](https://www.youtube.com/watch?v=cV-bGvnRZdw)
-* [Build a URL Shortener with Node, Hapi, and Mongo](https://codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+---
+### Learn Authentication
+* [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
+* [Learn about JSON Web Tokens](https://jwt.io/introduction/)
+* [OAuth 2](https://aaronparecki.com/oauth-2-simplified/#web-server-apps)
+* [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)
 
 ---
 ### Learn Git
@@ -215,6 +240,7 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
 ---
 ### Open Source Contribution Opportunities
 
+* [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) - The official GitHub guide.
 * [How do I get skilled enough to work on open source projects?](https://www.reddit.com/r/learnprogramming/comments/4xts2c/how_do_i_get_skilled_enough_to_work_on_open/)
 * Open Source Contribution Opportunites [[Reddit Discussion]](https://www.reddit.com/r/learnprogramming/comments/5wgefy/many_devs_here_on_reddit_and_on_slack_were_asking/)
   * [Redditor Form to fill out to get notified about Open Source Opportunities](https://devchat.devolio.net/hellocode/)
