@@ -1,5 +1,12 @@
-# Become-A-Full-Stack-Web-Developer
-Free resources for learning Full Stack Web Development.
+## 100+ Free resources for learning Full Stack Web Development.
+---
+
+18 months ago I dove head first into Full Stack Web Development. I'm a chronic bookmarker and note-taker, so anything that I have found useful I've saved along the way. I finally had some time to dive in sort everything out! The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you!). 
+
+As you'll see, I've focused on Javascript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs. The point is, whether you're just starting to learn, or you've been learning for a while, there should be a little something for everyone.
+
+Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and adding links as I go!
+
 ---
 
 ### Table of Contents
