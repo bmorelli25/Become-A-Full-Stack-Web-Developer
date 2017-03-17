@@ -1,5 +1,4 @@
 ## 100+ Free resources for learning Full Stack Web Development.
----
 
 18 months ago I dove head first into Full Stack Web Development. I'm a chronic bookmarker and note-taker, so anything that I have found useful I've saved along the way. I finally had some time to dive in sort everything out! The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you!). 
 
@@ -20,13 +19,14 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
 8. **[Learn React.js](#learn-react-js)**
 9. **[Learn Node.js](#learn-node-js)**
 10. **[Learn APIs](#learn-apis)**
-11. **[Learn Git](#learn-git)**
-12. **[Games & Challenge Websites](#games-and-challenge-websites)**
-13. **[Free Programming Books](#free-programming-books)**
-14. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
-15. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
-16. **[Software Developer Success Stories](#software-developer-success-stories)**
-17. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
+11. **[Full Stack](#full-stack)**
+12. **[Learn Git](#learn-git)**
+13. **[Games & Challenge Websites](#games-and-challenge-websites)**
+14. **[Free Programming Books](#free-programming-books)**
+15. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
+16. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
+17. **[Software Developer Success Stories](#software-developer-success-stories)**
+18. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
 ### Start Here
@@ -147,6 +147,8 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
   * [Colt Steele's Bootcamp](udemy.com)
   * [Node School](https://nodeschool.io/#workshoppers)
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
+* [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [Node JS Login with Passport - Youtube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
 
 ---
 ### Learn APIs
@@ -156,6 +158,19 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
   * [Free Intro to APIs Book/Course by Zapier](https://zapier.com/learn/apis/)
   * [Google Maps API](https://developers.google.com/maps/documentation/)
   * [Distance Calculator Web Services API](https://developers.google.com/maps/documentation/distance-matrix/start)
+
+---
+### Full Stack 
+* //Needs work
+* [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
+* [Express - Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
+* [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)
+* [Node JS and Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
+* [Express JS Database Integration](https://expressjs.com/en/guide/database-integration.html)
+* [MERN Stack Tutorial - Mongo, Express, React, Node](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50#.xfd2ixtz6)
+* [MongoDB MERN Tutorial Series](https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack)
+* [Full Stack MERN Tutorial - Youtube](https://www.youtube.com/watch?v=cV-bGvnRZdw)
+* [Build a URL Shortener with Node, Hapi, and Mongo](https://codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ---
 ### Learn Git
