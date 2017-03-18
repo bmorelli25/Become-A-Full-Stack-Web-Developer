@@ -59,7 +59,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 ### Programs and Classes
 * Programs
   * [The Odin Project](http://www.theodinproject.com/)
-  * [Free Code Camp](https://www.freecodecamp.com/)
+  * [freeCodeCamp](https://www.freecodecamp.com/)
   * [The Essential Web Developer Course](http://upskillcourses.com/p/essential-web-developer-course)
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
