@@ -229,6 +229,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Hacker Rank (some debate about this being good/bad](https://www.hackerrank.com/domains/cpp/cpp-introduction)
   * [Project Euler (math focus)](https://projecteuler.net/)
   * [Exercism](http://exercism.io/)
+  * [Edabit](https://edabit.com/)
 
 ---
 ### Free Programming Books
