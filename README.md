@@ -241,6 +241,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 ### Open Source Contribution Opportunities
 
 * [Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/) - The official GitHub guide.
+* [Make your first open source contribution in 5 minutes](https://github.com/Roshanjossey/first-contributions)
 * [How do I get skilled enough to work on open source projects?](https://www.reddit.com/r/learnprogramming/comments/4xts2c/how_do_i_get_skilled_enough_to_work_on_open/)
 * Open Source Contribution Opportunites [[Reddit Discussion]](https://www.reddit.com/r/learnprogramming/comments/5wgefy/many_devs_here_on_reddit_and_on_slack_were_asking/)
   * [Redditor Form to fill out to get notified about Open Source Opportunities](https://devchat.devolio.net/hellocode/)
