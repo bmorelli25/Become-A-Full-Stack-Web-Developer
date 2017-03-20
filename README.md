@@ -1,6 +1,6 @@
 ## 100+ Free resources for learning Full Stack Web Development.
 
-The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on Javascript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
+The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
 
 I've still got a lot of bookmarks to go through, so I'll be updating and adding links as I go. If you have a contribution, please feel free to submit a PR!
 
@@ -13,7 +13,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 4. **[Programs & Classes](#programs-and-classes)**
 5. **[Learn HTML](#learn-html)**
 6. **[Learn CSS](#learn-css)**
-7. **[Learn Javascript](#learn-javascript)**
+7. **[Learn JavaScript](#learn-javascript)**
 8. **[Learn React.js](#learn-react-js)**
 9. **[Full Stack Tutorials](#full-stack-tutorials)**
 10. **[Learn Node.js](#learn-node-js)**
@@ -31,7 +31,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 ---
 ### Start Here
 * Take a look at the big picture: [**Web Developer Roadpath**](https://github.com/kamranahmedse/developer-roadmap)
-* Youtube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=pB0WvcxTbCA)
+* YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=pB0WvcxTbCA)
 * [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
 * What happens when you type google into your address bar? [[Reddit Link]](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
   * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
@@ -71,11 +71,11 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
 * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
 * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
-  * Javascript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
+  * JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
 * What to do after Colt Steele's course
   * [Watch And Code](https://watchandcode.com/)
 * [RegexOne](http://regexone.com/) - Learn Regular Expressions
-* [Google University Github Repo](https://github.com/jwasham/coding-interview-university)
+* [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
 
 ---
 ### Learn HTML
@@ -90,25 +90,25 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
 
 ---
-### Learn Javascript
+### Learn JavaScript
 
-* Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* JavaScript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Courses/Tutorials
   * Courses.AngularClass.com - Topics Include: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
     * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
-  * Edabit - Learn Javascript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
+  * Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
     * [[Edabit - Website Link]](https://edabit.com/explore) [[Reddit Post]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
   * [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
   * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
 * Projects
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
   * [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
-  * **[13 Weeks of Javascript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
+  * **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
 * Articles/Books
   * [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
-  * [Eloquent JS](http://eloquentjavascript.net/) - Free Javascript Ebook
-  * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on Github
-  * [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - learn about the quirky parts of JS
+  * [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
+  * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
+  * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - learn about the quirky parts of JS
   * [JS - The Good Parts .pdf](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
   * [Learning js Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Reusable solutions to commonly occurring problems
   * [Asynchronous Module Definition](http://requirejs.org/docs/api.html)
@@ -145,7 +145,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [Express JS Database Integration](https://expressjs.com/en/guide/database-integration.html)
 * [MERN Stack Tutorial - Mongo, Express, React, Node](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50#.xfd2ixtz6)
 * [MongoDB MERN Tutorial Series](https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack)
-* [Full Stack MERN Tutorial - Youtube](https://www.youtube.com/watch?v=cV-bGvnRZdw)
+* [Full Stack MERN Tutorial - YouTube](https://www.youtube.com/watch?v=cV-bGvnRZdw)
 * [Build a URL Shortener with Node, Hapi, and Mongo](https://codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)
 * [Building web app using react.js, express.js, node.js and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2
@@ -162,12 +162,12 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
 * Best Resource for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
-  * [Youtube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+  * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
   * [Colt Steele's Bootcamp](udemy.com)
   * [Node School](https://nodeschool.io/#workshoppers)
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
 * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-* [Node JS Login with Passport - Youtube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+* [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
 * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ---
@@ -188,7 +188,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [MongoDB University](https://university.mongodb.com/) - Numerous classes on learning MongoDB
 * [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/)
 * [PostgreSQL Exercises](https://pgexercises.com/)
-* [Learn PostgreSQL (Github)](https://github.com/dwyl/learn-postgresql)
+* [Learn PostgreSQL (GitHub)](https://github.com/dwyl/learn-postgresql)
 * [Try Redis](https://try.redis.io/)
 * [Redis Tutorial](https://www.tutorialspoint.com/redis/)
 
@@ -249,7 +249,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Redditor Form to fill out to get notified about Open Source Opportunities](https://devchat.devolio.net/hellocode/)
   * [Up For Grabs - Browse a list of projects with curated tasks](http://up-for-grabs.net/#/)
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Open source activity held every October. Easy to participate, and you get a free t-shirt!
-* [I'm afraid if I say anything on Github people will laugh at me and I will die.](https://www.reddit.com/r/learnprogramming/comments/4pgb44/im_afraid_if_i_say_anything_on_github_people_will/)
+* [I'm afraid if I say anything on GitHub people will laugh at me and I will die.](https://www.reddit.com/r/learnprogramming/comments/4pgb44/im_afraid_if_i_say_anything_on_github_people_will/)
 
 ---
 ### Am I Ready to be a Developer?
@@ -297,8 +297,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * Interview Prep
   * [CS50 - Prep and Practice for Technical Interviews [YouTube]](https://youtu.be/qIi-tIrcaww?t=2m32s)
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
-  * Common Javascript Interview Questions Repo
-    * [Github Repo - All questions and answers](https://www.reddit.com/r/learnprogramming/comments/5sa35k/fun_github_repo_containing_common_interview/)
+  * Common JavaScript Interview Questions Repo
+    * [GitHub Repo - All questions and answers](https://www.reddit.com/r/learnprogramming/comments/5sa35k/fun_github_repo_containing_common_interview/)
     * [Reddit Post - Discussion, with additional questions and answers](https://www.reddit.com/r/learnprogramming/comments/5sa35k/fun_github_repo_containing_common_interview/)
   * [Ammon Bartram - Ask an interviewer anything: interview questions, answers, mistakes](https://www.reddit.com/r/cscareerquestions/comments/5y95x6/i_am_ammon_bartram_and_i_have_done_900/)
   * [Sharing some interview tips (Silicon valley employee)](https://www.reddit.com/r/cscareerquestions/comments/5w2oyn/sharing_some_interview_tips/)
