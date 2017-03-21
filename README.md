@@ -92,8 +92,9 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 ---
 ### Learn JavaScript
 
-* JavaScript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Courses/Tutorials
+  * Javascript [The Right Way](http://jstherightway.org/)
   * Courses.AngularClass.com - Topics Include: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
     * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
   * Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
