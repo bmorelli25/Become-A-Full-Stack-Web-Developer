@@ -79,7 +79,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 
 ---
 ### Learn HTML
-*Anyone have any cool HTML links?*
+* [HTML basics & HTML5](https://www.w3schools.com/html/default.asp) - Good tutorial to get the basics of HTML and a preview of HTML5
+* [HTML reference](https://www.w3schools.com/tags/default.asp) - Don't know what one specific tag does? This reference will help you
 
 ---
 ### Learn CSS
