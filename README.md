@@ -79,7 +79,11 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 
 ---
 ### Learn HTML
-*Anyone have any cool HTML links?*
+
+* [Introduction to HTML - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+* [HTML5 Tutorial](http://www.html5tutorial.info)
+* [Learn to code HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)
+* [HTML Fundamentals - Solo Learn](https://www.sololearn.com/Course/HTML/)
 
 ---
 ### Learn CSS
