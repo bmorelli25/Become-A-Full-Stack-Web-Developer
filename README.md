@@ -82,6 +82,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 
 * [Introduction to HTML - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 * [HTML5 Tutorial](http://www.html5tutorial.info)
+* [HTML5 Introduction](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
 * [Learn to code HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)
 * [HTML Fundamentals - Solo Learn](https://www.sololearn.com/Course/HTML/)
 
@@ -98,6 +99,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 
 * Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Courses/Tutorials
+  * [Javascript for Beginners (1)](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
+  * [Javascript for Beginners (2)](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
   * Javascript [The Right Way](http://jstherightway.org/)
   * Courses.AngularClass.com - Topics Include: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
     * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
