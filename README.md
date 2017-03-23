@@ -12,6 +12,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 3. **[What is the Most Useful CS Bookmark You have](#what-is-the-single-most-useful-cs-bookmark-you-have)**
 4. **[Programs & Classes](#programs-and-classes)**
 5. **[Learn HTML](#learn-html)**
+
+
 6. **[Learn CSS](#learn-css)**
 7. **[Learn JavaScript](#learn-javascript)**
 8. **[Learn React.js](#learn-react-js)**
@@ -31,7 +33,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 ---
 ### Start Here
 * Take a look at the big picture: [**Web Developer Roadpath**](https://github.com/kamranahmedse/developer-roadmap)
-* YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=pB0WvcxTbCA)
+* YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
 * [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
 * What happens when you type google into your address bar? [[Reddit Link]](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
   * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
@@ -59,7 +61,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 ### Programs and Classes
 * Programs
   * [The Odin Project](http://www.theodinproject.com/)
-  * [freeCodeCamp](https://www.freecodecamp.com/)
+  * [FreeCodeCamp](https://www.freecodecamp.com/)
   * [The Essential Web Developer Course](http://upskillcourses.com/p/essential-web-developer-course)
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
