@@ -61,6 +61,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [The Odin Project](http://www.theodinproject.com/)
   * [FreeCodeCamp](https://www.freecodecamp.com/)
   * [The Essential Web Developer Course](http://upskillcourses.com/p/essential-web-developer-course)
+  * [Epicodus Programming Bootcamp Curriculum](https://www.learnhowtoprogram.com/courses)
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
@@ -83,7 +84,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [Introduction to HTML - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 * [HTML5 Tutorial](http://www.html5tutorial.info)
 * [Learn to code HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)
-* [HTML Fundamentals - Solo Learn](https://www.sololearn.com/Course/HTML/)
+* [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/)
 
 ---
 ### Learn CSS
@@ -92,6 +93,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * A visual guide to CSS - [CSS Reference](http://cssreference.io/)
 * [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - A collection of tips to help take your CSS skills pro.
 * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
+* [Css Fundamentals - SoloLearn](https://www.sololearn.com/Course/CSS/)
 
 ---
 ### Learn JavaScript
@@ -105,6 +107,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
     * [[Edabit - Website Link]](https://edabit.com/explore) [[Reddit Post]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
   * [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
   * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
+  * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
 * Projects
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
   * [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
