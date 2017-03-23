@@ -134,6 +134,9 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Exploring the react Ecosystem!](https://www.toptal.com/react/navigating-the-react-ecosystem) - Article
   * [Code academy React program](HTTPS://www.codeacademy.com)
   * [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md) - Use this link first
+  * [Code Daily](https://codedaily.io/)
+  * [Build a Todo Application with React Native](https://codedaily.io/courses/2/Build-a-React-Native-Todo-Application)
+  * [Learn to Animate with React Native](https://codedaily.io/courses/1/Animate-React-Native-UI-Elements)
 * Medium Links:
   * [React Components, Elements, and Instances (Medium)](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.rjx4d6bgw)
   * [Working with React](https://medium.com/@prodia/working-with-react-js-3e21a2ff5443#.ensczdgi0)
