@@ -12,8 +12,6 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 3. **[What is the Most Useful CS Bookmark You have](#what-is-the-single-most-useful-cs-bookmark-you-have)**
 4. **[Programs & Classes](#programs-and-classes)**
 5. **[Learn HTML](#learn-html)**
-
-
 6. **[Learn CSS](#learn-css)**
 7. **[Learn JavaScript](#learn-javascript)**
 8. **[Learn React.js](#learn-react-js)**
@@ -52,7 +50,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
   * [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
   * [CSS Tricks - Complete Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-  * [Regex Cheat Sheet](http://regexlib.com/CheatSheet.aspx?AspxAutoDetectCookieSupport=1)
+  * [Regex Cheat Sheet](http://regexr.com/)
   * [DevDocs](http://devdocs.io)
   * [Awesome List of Everything Programming](https://github.com/sindresorhus/awesome)
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
