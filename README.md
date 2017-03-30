@@ -296,6 +296,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 ---
 ### Get The Job
 **Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**
+* Make your portfolio
+  * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox. 
 
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
