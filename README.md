@@ -17,16 +17,17 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 8. **[Learn React.js](#learn-react-js)**
 9. **[Full Stack Tutorials](#full-stack-tutorials)**
 10. **[Learn Node.js](#learn-node-js)**
-11. **[Learn APIs](#learn-apis)**
-12. **[Learn Databases](#learn-databases)**
-13. **[Learn Authentication](#learn-authentication)**
-14. **[Learn Git](#learn-git)**
-15. **[Games & Challenge Websites](#games-and-challenge-websites)**
-16. **[Free Programming Books](#free-programming-books)**
-17. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
-18. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
-19. **[Software Developer Success Stories](#software-developer-success-stories)**
-20. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
+11. **[Learn Python](#learn-python)**
+12. **[Learn APIs](#learn-apis)**
+13. **[Learn Databases](#learn-databases)**
+14. **[Learn Authentication](#learn-authentication)**
+15. **[Learn Git](#learn-git)**
+16. **[Games & Challenge Websites](#games-and-challenge-websites)**
+17. **[Free Programming Books](#free-programming-books)**
+18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
+19. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
+20. **[Software Developer Success Stories](#software-developer-success-stories)**
+21. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
 ### Start Here
@@ -184,6 +185,12 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
 * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+
+---
+### Learn Python
+* [15 Free e-books to learn Python](https://medium.com/@bmorelli25/15-free-ebooks-to-learn-python-c299943f9f2c)
+* [Programming Foundations with Python - Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+* [Designing RESTful APIs - Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
 
 ---
 ### Learn APIs
