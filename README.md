@@ -74,9 +74,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
 * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
 * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
-  * JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
-* What to do after Colt Steele's course
-  * [Watch And Code](https://watchandcode.com/)
+* JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
+* [Watch And Code](https://watchandcode.com/)
 * [RegexOne](http://regexone.com/) - Learn Regular Expressions
 * [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
 
