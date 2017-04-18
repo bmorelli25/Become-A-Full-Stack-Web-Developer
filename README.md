@@ -69,7 +69,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
 
 ---
-### Assorted Reddit Links (Still need to sort)
+### Assorted Links (Still need to sort)
+* [Javascript: Learn Regular Expressions for Beginners](https://medium.com/@bmorelli25/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
 * Tutorial/Screencast: [Let's Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
 * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
 * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
