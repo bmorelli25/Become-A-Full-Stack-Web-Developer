@@ -67,18 +67,10 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
-
----
-### Assorted Links (Still need to sort)
-* [Javascript: Learn Regular Expressions for Beginners](https://medium.com/@bmorelli25/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
-* Tutorial/Screencast: [Let's Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
-* [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
-* [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
-* Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
-* JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
-* [Watch And Code](https://watchandcode.com/)
-* [RegexOne](http://regexone.com/) - Learn Regular Expressions
-* [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
+* Bootcamps
+  * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
+  * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
+  * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
 
 ---
 ### Learn HTML
@@ -118,6 +110,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
   * **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
 * Articles/Books
+  * [Javascript: Learn Regular Expressions for Beginners](https://medium.com/@bmorelli25/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
   * [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
   * [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
   * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
@@ -339,3 +332,12 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Salary Negotiations and how not to set a bunch of money on fire (Medium)](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.75xz4zut8)
   * [10 Rules for negotiating a job offer (Medium)](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.g8u1wnyw8)
   * [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)
+  
+---
+### Assorted Links
+
+* Tutorial/Screencast: [Lets Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
+* JavaScript / Node / Angular 1 & 2 / React / Elm / C# / PHP / SQL / Git [Google Drive](https://drive.google.com/folderview?id=0BztLOG55I2FVT0NNLTVXM1JOYlk&usp=sharing)
+* [Watch And Code](https://watchandcode.com/)
+* [RegexOne](http://regexone.com/) - Learn Regular Expressions
+* [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
