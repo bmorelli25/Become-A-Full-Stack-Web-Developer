@@ -133,6 +133,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Code academy React program](HTTPS://www.codeacademy.com)
   * [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md) - Use this link first
   * [Code Daily](https://codedaily.io/)
+  * [React Fundamentals](https://www.reacttraining.com/online/react-fundamentals)
   * [Build a Todo Application with React Native](https://codedaily.io/courses/2/Build-a-React-Native-Todo-Application)
   * [Learn to Animate with React Native](https://codedaily.io/courses/1/Animate-React-Native-UI-Elements)
 * Medium Links:
@@ -297,7 +298,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 ### Get The Job
 **Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**
 * Make your portfolio
-  * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox. 
+  * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox.
 
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
@@ -332,7 +333,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Salary Negotiations and how not to set a bunch of money on fire (Medium)](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.75xz4zut8)
   * [10 Rules for negotiating a job offer (Medium)](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.g8u1wnyw8)
   * [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)
-  
+
 ---
 ### Assorted Links
 
