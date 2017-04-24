@@ -102,6 +102,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
     * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
   * Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
     * [[Edabit - Website Link]](https://edabit.com/explore) [[Reddit Post]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
+  * [JavaScript - The keyword 'this' for beginners](https://hackernoon.com/javascript-the-keyword-this-for-beginners-fb5238d99f85)
   * [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
   * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
   * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
