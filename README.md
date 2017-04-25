@@ -31,23 +31,25 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 
 ---
 ### Start Here
-* Take a look at the big picture: [**Web Developer Roadpath**](https://github.com/kamranahmedse/developer-roadmap)
-* YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
+* Take a look at the big picture: 
+  * [Web Developer Roadpath - Github Repo](https://github.com/kamranahmedse/developer-roadmap)
+  * YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
 * Learn about the common tools associated with full stack web development - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
 * [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
-* What happens when you type google into your address bar? [[Reddit Link]](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
+* What happens when you type google into your address bar? 
+  * [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
   * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-* Find a local Web Development related [Meetup!](https://www.meetup.com/)
+* Find a local Web Development related [Meetup!](https://www.meetup.com/) Don't worry, it's not as scary as you might think, and is one of the best ways to start learning
 ---
 ### How to Learn
 * How to Learn.
   * Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
-  * Repetition, Repetition, Repetition - A great discussion on study techniques [Reddit Post](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
+  * Repetition, Repetition, Repetition - [Reddit Discussion on study techniques](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
 
 ---
 ### What is the Single most useful CS Bookmark you have?
 
-* What is the single most useful CS Bookmark you have? [[Reddit Link]](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
+* What is the single most useful CS Bookmark you have? [Reddit Link to discussion](https://www.reddit.com/r/cscareerquestions/comments/5bsg82/whats_the_single_most_useful_csrelated_link_you/)
   * [Learn X in Y Minutes](https://learnxinyminutes.com/)
   * [What CS Majors Should Know](http://matt.might.net/articles/what-cs-majors-should-know/)
   * [Google's Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
@@ -71,6 +73,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
   * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
   * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
+* Paid
+  * [The Web Developer Bootcamp by Colt Steele](https://goo.gl/qTzEtx). This is the only paid resource on this document. I include it because it is worth its weight in gold. Inexpensive (less than $50) and one of the best resources out there. If you're going to buy one course, buy this one.
 
 ---
 ### Learn HTML
