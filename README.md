@@ -92,7 +92,10 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * A visual guide to CSS - [CSS Reference](http://cssreference.io/)
 * [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - A collection of tips to help take your CSS skills pro.
 * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
-* [Css Fundamentals - SoloLearn](https://www.sololearn.com/Course/CSS/)
+* [CSS Fundamentals - SoloLearn](https://www.sololearn.com/Course/CSS/)
+
+
+
 
 ---
 ### Learn JavaScript
@@ -170,6 +173,8 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * Cool stuff other people have built:
 * [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
 * [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
+* [A free full stack web dev curriculum by top engineers](https://bento.io)
+* [HTML, CSS and JavaScript Tutorials](http://htmldog.com/)
 
 ---
 ### Learn Node JS
@@ -211,6 +216,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [Learn PostgreSQL (GitHub)](https://github.com/dwyl/learn-postgresql)
 * [Try Redis](https://try.redis.io/)
 * [Redis Tutorial](https://www.tutorialspoint.com/redis/)
+* [SQL Fundamentals - SoloLearn](https://www.sololearn.com/Course/SQL/)
 
 ---
 ### Learn Authentication
@@ -247,9 +253,10 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Codechef](https://www.codechef.com/)
   * [Code Wars](https://www.codewars.com/)
   * [Coding Game](https://www.codingame.com)
-  * [Hacker Rank (some debate about this being good/bad](https://www.hackerrank.com/domains/cpp/cpp-introduction)
+  * [Hacker Rank (some debate about this being good/bad)](https://www.hackerrank.com/domains/cpp/cpp-introduction)
   * [Project Euler (math focus)](https://projecteuler.net/)
   * [Exercism](http://exercism.io/)
+  * [CMD Challenge: Test your command line skills](https://cmdchallenge.com/)
 
 ---
 ### Free Programming Books
