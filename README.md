@@ -40,7 +40,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
   * [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
   * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * Find a local Web Development related [Meetup!](https://www.meetup.com/) Don't worry, it's not as scary as you might think, and is one of the best ways to start learning
-* [How to Become a Web Developer - Step by Step Breakdown](https://websitesetup.org/become-web-developer/)
+
 ---
 ### How to Learn
 * How to Learn.
@@ -86,6 +86,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [Learn to code HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)
 * [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/)
 * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
+
 ---
 ### Learn CSS
 
@@ -95,6 +96,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
 * [Css Fundamentals - SoloLearn](https://www.sololearn.com/Course/CSS/)
 * [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
+
 ---
 ### Learn JavaScript
 
