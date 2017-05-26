@@ -349,3 +349,4 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 * [Watch And Code](https://watchandcode.com/)
 * [RegexOne](http://regexone.com/) - Learn Regular Expressions
 * [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
+* [Regex 101 by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
