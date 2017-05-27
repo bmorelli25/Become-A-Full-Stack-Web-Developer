@@ -154,6 +154,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
   * [React Starter Project Search](http://andrewhfarmer.com/starter-project/)
   * [Exploring the react Ecosystem!](https://www.toptal.com/react/navigating-the-react-ecosystem) - Article
   * [Code academy React program](HTTPS://www.codeacademy.com)
+  * [The Road to learn React - Build a Hacker News App along the way](https://www.robinwieruch.de/the-road-to-learn-react/)
   * [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md) - Use this link first
   * [Code Daily](https://codedaily.io/)
   * [Build a Todo Application with React Native](https://codedaily.io/courses/2/Build-a-React-Native-Todo-Application)
