@@ -268,6 +268,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
   * [Hacker Rank (some debate about this being good/bad](https://www.hackerrank.com/domains/cpp/cpp-introduction)
   * [Project Euler (math focus)](https://projecteuler.net/)
   * [Exercism](http://exercism.io/)
+  * [Edabit](https://edabit.com/)
 
 ---
 ### Free Programming Books
