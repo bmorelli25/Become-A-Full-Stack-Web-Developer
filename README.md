@@ -2,7 +2,7 @@
 
 The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
 
-I've still got a lot of bookmarks to go through, so I'll be updating and adding links as I go. If you have a contribution, please feel free to submit a PR!
+If you have a contribution, please feel free to submit a PR! The list has now grown to over 200 free resources!!
 
 ---
 
@@ -84,7 +84,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
   * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
   * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
 * Paid
-  * [The Web Developer Bootcamp by Colt Steele](https://goo.gl/qTzEtx). This is the only paid resource on this document. I include it because it is worth its weight in gold. Inexpensive (less than $50) and one of the best resources out there. If you're going to buy one course, buy this one.
+  * [The Web Developer Bootcamp by Colt Steele](https://goo.gl/qTzEtx). I include this paid course because it because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course, buy this one.
 
 ---
 ### Learn HTML
@@ -151,6 +151,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
   * [10 React Mini Patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.nn8nyilyi)
   * [Top 5 Tutorials for getting started with React](http://andrewhfarmer.com/getting-started-tutorials/)
   * [10 best ReactJS tutorials](http://noeticforce.com/best-reactjs-tutorials-with-examples)
+  * [Three awesome courses for learning React JS (Paid courses under $20)](https://hackernoon.com/javascript-frameworks-learn-react-js-2ed10c0dc06d)
   * [React Starter Project Search](http://andrewhfarmer.com/starter-project/)
   * [Exploring the react Ecosystem!](https://www.toptal.com/react/navigating-the-react-ecosystem) - Article
   * [Code academy React program](HTTPS://www.codeacademy.com)
@@ -193,12 +194,14 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 ### Learn Node JS
 
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
-* Best Resource for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
+* Resources for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
   * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
   * [Colt Steele's Bootcamp](https://goo.gl/qTzEtx)
   * [Node School](https://nodeschool.io/#workshoppers)
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
-* [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://medium.com/@bmorelli25/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
+* [Three awesome courses for learning Node.js (Paid courses under $20)](https://hackernoon.com/three-awesome-courses-for-learning-node-js-d7f761437101)
+* [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://hackernoon.com/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
+* [Build a simple Twitter Bot with Node.js - PART 2](https://hackernoon.com/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
 * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
 * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
