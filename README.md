@@ -164,6 +164,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
   * [Working with React](https://medium.com/@prodia/working-with-react-js-3e21a2ff5443#.ensczdgi0)
   * [Beginners guide to React Router (Medium)](https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669#.4lul6fhvy)
   * [Angular JS vs React JS (Medium)](https://medium.com/@paramsingh_66174/angularjs-vs-reactjs-e651a194dfcb#.bbx4qapwu)
+  * [The Road to learn React - Build a Hacker News App along the way](https://leanpub.com/the-road-to-learn-react)
 
 ---
 ### Full Stack Tutorials
