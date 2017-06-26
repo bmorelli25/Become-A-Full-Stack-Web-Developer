@@ -1,8 +1,10 @@
 ## 100+ Free resources for learning Full Stack Web Development.
 
-The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
+#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to my once-weekly newsletter!**
 
-If you have a contribution, please feel free to submit a PR! The list has now grown to over 200 free resources!!
+### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
+
+_Never more than one email per week. Easy to unsubscribe. Your information will **never** be shared._
 
 ---
 
@@ -32,11 +34,9 @@ If you have a contribution, please feel free to submit a PR! The list has now gr
 ---
 
 ### Start Here
-#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to my once-weekly newsletter!**
+The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js. There is also a wealth of information on interview prep and applying to jobs.
 
-### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
-
-_Never more than one email per week. Easy to unsubscribe. Your information will **never** be shared._
+More free resources can be found on [codeburst.io](https://codeburst.io)
 
 ---
 
@@ -99,7 +99,8 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 ---
 ### Learn CSS
 
-* [Everything you need to know about Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc) *Seriously the best Flexbox resource I've found*
+* [Everything you need to know about Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc)
+* [Build a Minimalist HTML Card in just 53 lines of code (with Flexbox)](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)
 * A visual guide to CSS - [CSS Reference](http://cssreference.io/)
 * [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) - A collection of tips to help take your CSS skills pro.
 * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
@@ -111,7 +112,8 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 
 * Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Courses/Tutorials
-  * [JavaScript for Beginners - Understand the hard stuff](https://medium.com/@bmorelli25/javascript-for-beginners-a-new-series-22762d8e5c42)
+  * [Recent News, Articles, Tutorials on JavaScript](https://codeburst.io/tagged/javascript)
+  * [JavaScript for Beginners - Understand the hard stuff](https://codeburst.io/javascript-for-beginners-a-new-series-22762d8e5c42)
   * [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
   * [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
   * Javascript [The Right Way](http://jstherightway.org/)
@@ -123,17 +125,25 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
   * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
   * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
 * Understanding Tougher Topics  
-  * [JavaScript - The keyword 'this' for beginners](https://hackernoon.com/javascript-the-keyword-this-for-beginners-fb5238d99f85)
-  * [JavaScript - Arrow Functions for Beginners](https://hackernoon.com/javascript-arrow-functions-for-beginners-926947fc0cdc)
-  * [JavaScript for Beginners: The new Operator](https://hackernoon.com/javascript-for-beginners-the-new-operator-cee35beb669e)
-  * [Javascript: Learn Regular Expressions for Beginners](https://medium.com/@bmorelli25/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
-  * [JavaScript Template Literals and Tag Functions for Beginners](https://hackernoon.com/javascript-template-literals-tag-functions-for-beginners-758a041160e1)
-  * [JavaScript & the spread operator](https://hackernoon.com/javascript-the-spread-operator-a867a71668ca)
+  * [JavaScript - The keyword 'this' for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
+  * [JavaScript - Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
+  * [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+  * [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
+  * [JavaScript for Beginners: The new Operator](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
+  * [Javascript: Learn Regular Expressions for Beginners](https://codeburst.io/javascript-learn-regular-expressions-for-beginners-bb6107015d91)
+  * [JavaScript Template Literals and Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)
+  * [JavaScript & the spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)
+  * [JavaScript: What is short-circuit evaluation?](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c)
+  * [JavaScript: What is the ternary operator?](https://codeburst.io/javascript-what-is-the-ternary-operator-c819af8a7f6c)
+  * [JavaScript: Why does 3 + true = 4? (and 7 other tricky equations)](https://codeburst.io/javascript-why-does-3-true-4-and-7-other-tricky-equations-9dd13cb2a92a)
+  * [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
+
 * Projects
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
   * [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
   * **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
 * Articles/Books
+  * [Three awesome (and free) eBooks for learning JavaScript](https://codeburst.io/three-awesome-and-free-ebooks-for-learning-javascript-c874f65bbd7a)
   * [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
   * [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
   * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
@@ -164,6 +174,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
   * [Working with React](https://medium.com/@prodia/working-with-react-js-3e21a2ff5443#.ensczdgi0)
   * [Beginners guide to React Router (Medium)](https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669#.4lul6fhvy)
   * [Angular JS vs React JS (Medium)](https://medium.com/@paramsingh_66174/angularjs-vs-reactjs-e651a194dfcb#.bbx4qapwu)
+  * [React Native: Nine Animation Screencast Tutorials](https://codeburst.io/react-native-nine-animation-screencast-tutorials-9d031e8bb86f)
 
 ---
 ### Full Stack Tutorials
@@ -200,12 +211,15 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
   * [Colt Steele's Bootcamp](https://goo.gl/qTzEtx)
   * [Node School](https://nodeschool.io/#workshoppers)
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
-* [Three awesome courses for learning Node.js (Paid courses under $20)](https://hackernoon.com/three-awesome-courses-for-learning-node-js-d7f761437101)
-* [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://hackernoon.com/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
-* [Build a simple Twitter Bot with Node.js - PART 2](https://hackernoon.com/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
-* [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-* [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
-* [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* Courses/Tutorials
+  * [Three awesome courses for learning Node.js (Paid courses under $20)](https://codeburst.io/three-awesome-courses-for-learning-node-js-d7f761437101)
+  * [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
+  * [Build a simple Twitter Bot with Node.js - PART 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
+  * [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)
+  * [Learn to build an Amazon Alexa Skill with Node.js (and get paid to do it)](https://codeburst.io/learn-to-build-an-amazon-alexa-skill-with-node-js-and-get-paid-to-do-it-cf55ae534650)
+  * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+  * [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
+  * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ---
 ### Learn Python
@@ -218,6 +232,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 
 * Where to start with learning APIs [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5761ir/where_to_start_with_learning_how_to_use_apis/)
   * [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)
+  * [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)
   * [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
   * [Free Intro to APIs Book/Course by Zapier](https://zapier.com/learn/apis/)
   * [Google Maps API](https://developers.google.com/maps/documentation/)
