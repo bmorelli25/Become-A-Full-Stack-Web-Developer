@@ -85,6 +85,8 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
 * Paid
   * [The Web Developer Bootcamp by Colt Steele](https://goo.gl/qTzEtx). I include this paid course because it because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course, buy this one.
+* GitHub
+  * [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
 ---
 ### Learn HTML
@@ -137,6 +139,8 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [JavaScript: What is the ternary operator?](https://codeburst.io/javascript-what-is-the-ternary-operator-c819af8a7f6c)
   * [JavaScript: Why does 3 + true = 4? (and 7 other tricky equations)](https://codeburst.io/javascript-why-does-3-true-4-and-7-other-tricky-equations-9dd13cb2a92a)
   * [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
+  * [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
+  * [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
 
 * Projects
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
@@ -341,6 +345,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 **Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**
 * Make your portfolio
   * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox. 
+  * [10 Awesome Web Developer Portfolios](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)
 
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
@@ -371,6 +376,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [10 Interview Questions every JS Developer should know (Medium)](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.v0dk97v5v)
 
 * Salary Information
+  * [How Much Do Software Developers Make in 2017?](https://codeburst.io/how-much-do-software-developers-make-in-2017-e6ae657966be)
   * [12/2016 Salary Sharing Thread (<2 yrs Experience)](https://www.reddit.com/r/cscareerquestions/comments/5h6xvj/official_salary_sharing_thread_for_new_grads/)
   * [Salary Negotiations and how not to set a bunch of money on fire (Medium)](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.75xz4zut8)
   * [10 Rules for negotiating a job offer (Medium)](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.g8u1wnyw8)
@@ -385,3 +391,4 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [RegexOne](http://regexone.com/) - Learn Regular Expressions
 * [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
 * [Regex 101 by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
+* [20 Developers to Follow on Twitter](https://codeburst.io/best-web-developers-to-follow-on-twitter-9318a3f6525a)
