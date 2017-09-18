@@ -97,7 +97,8 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Learn to code HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)
 * [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/)
 * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
-
+* [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
+* [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
 ---
 ### Learn CSS
 
