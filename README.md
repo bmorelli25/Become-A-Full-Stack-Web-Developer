@@ -154,7 +154,6 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
   * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
   * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - learn about the quirky parts of JS
-  * [JS - The Good Parts .pdf](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
   * [Learning js Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Reusable solutions to commonly occurring problems
   * [Asynchronous Module Definition](http://requirejs.org/docs/api.html)
 
