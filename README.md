@@ -216,6 +216,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Colt Steele's Bootcamp](https://goo.gl/qTzEtx)
   * [Node School](https://nodeschool.io/#workshoppers)
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
+  * [Learn and Understand NodeJS](https://www.udemy.com/understand-nodejs/)
 * Courses/Tutorials
   * [Three awesome courses for learning Node.js (Paid courses under $20)](https://codeburst.io/three-awesome-courses-for-learning-node-js-d7f761437101)
   * [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
@@ -227,6 +228,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * Optimization Techniques
   * [Make your node server faster by caching responses with redis](https://community.risingstack.com/redis-node-js-introduction-to-caching/)
+  * [How to Develop a Highly Scalable Express Server](https://www.sitepoint.com/how-to-create-a-node-js-cluster-for-speeding-up-your-apps/)
    
 
 
