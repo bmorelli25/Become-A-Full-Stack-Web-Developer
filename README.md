@@ -393,7 +393,6 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 
   
 ### Web Editors IDE
----
 ### Free
   * [Brackets io](http://brackets.io/)  
   * [Atom](https://atom.io/)
