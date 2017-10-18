@@ -30,6 +30,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 19. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
 20. **[Software Developer Success Stories](#software-developer-success-stories)**
 21. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
+22. **[Web Editors IDE](#Web Editors IDE)
 
 ---
 
@@ -390,6 +391,30 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)
   
 ---
+
+  
+### Web-Editors
+---
+### Free
+  * [Brackets io](http://brackets.io/)  
+  * [Atom](https://atom.io/)
+  * [Visual Studio Code](https://code.visualstudio.com/)
+  * [Sublime](https://www.sublimetext.com/download)
+  * [Coda](https://panic.com/coda/)
+  
+### Paid 
+##### But if you are student then you can apply for free one year subscription for all IDE 
+#### JetBrains IDE
+* [Webstorm For Everything](https://www.jetbrains.com/webstorm/?fromMenu)
+* [Python IDE](https://www.jetbrains.com/pycharm/?fromMenu)
+* [GoLang](https://www.jetbrains.com/go/?fromMenu)
+* [Phpstorm](https://www.jetbrains.com/phpstorm/?fromMenu)
+* [Ruby](https://www.jetbrains.com/ruby/?fromMenu)
+---
+
+
+
+
 ### Assorted Links
 
 * Tutorial/Screencast: [Lets Learn Algorithms: An Intro to Binary Search](https://www.reddit.com/r/learnprogramming/comments/5d56pd/lets_learn_algorithms_an_intro_to_binary_search/)
