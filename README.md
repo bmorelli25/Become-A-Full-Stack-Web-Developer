@@ -84,7 +84,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
   * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
 * Paid
-  * [The Web Developer Bootcamp by Colt Steele](https://goo.gl/qTzEtx). I include this paid course because it because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course, buy this one.
+  * [The Web Developer Bootcamp by Colt Steele](http://bit.ly/2yEYsoB). I include this paid course because it because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course, buy this one.
 * GitHub
   * [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
