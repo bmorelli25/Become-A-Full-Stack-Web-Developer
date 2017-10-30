@@ -305,6 +305,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [O'Reilly Offering Programming eBooks for Free (Reddit)](https://www.reddit.com/r/learnprogramming/comments/556kxj/oreilly_offering_programming_ebooks_for_free/)
   * [GitHub - Thousands of free programming Books on every topic](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
   * [Non-Technical Books to make you a better Programmer (Reddit)](https://www.reddit.com/r/learnprogramming/comments/51zz5g/what_non_technical_books_can_i_bring_with_me/)
+  * [PACKT Books - Free Programming eBooks](https://www.packtpub.com/packt/offers/free-learning)
 
 ---
 ### Open Source Contribution Opportunities
