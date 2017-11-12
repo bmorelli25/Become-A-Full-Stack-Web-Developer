@@ -18,18 +18,19 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 7. **[Learn JavaScript](#learn-javascript)**
 8. **[Learn React.js](#learn-react-js)**
 9. **[Full Stack Tutorials](#full-stack-tutorials)**
-10. **[Learn Node.js](#learn-node-js)**
-11. **[Learn Python](#learn-python)**
-12. **[Learn APIs](#learn-apis)**
-13. **[Learn Databases](#learn-databases)**
-14. **[Learn Authentication](#learn-authentication)**
-15. **[Learn Git](#learn-git)**
-16. **[Games & Challenge Websites](#games-and-challenge-websites)**
-17. **[Free Programming Books](#free-programming-books)**
-18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
-19. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
-20. **[Software Developer Success Stories](#software-developer-success-stories)**
-21. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
+10. **[Learn Angular 4](#learn-angular-4)**
+11. **[Learn Node.js](#learn-node-js)**
+12. **[Learn Python](#learn-python)**
+13. **[Learn APIs](#learn-apis)**
+14. **[Learn Databases](#learn-databases)**
+15. **[Learn Authentication](#learn-authentication)**
+16. **[Learn Git](#learn-git)**
+17. **[Games & Challenge Websites](#games-and-challenge-websites)**
+18. **[Free Programming Books](#free-programming-books)**
+19. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
+20. **[Am I Ready to be a Developer?](#am-i-ready-to-be-a-developer)**
+21. **[Software Developer Success Stories](#software-developer-success-stories)**
+22. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
 
@@ -84,7 +85,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
   * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
 * Paid
-  * [The Web Developer Bootcamp by Colt Steele](http://bit.ly/2yEYsoB). I include this paid course because it because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course, buy this one.
+  * [The Web Developer Bootcamp by Colt Steele](https://goo.gl/qTzEtx). I include this paid course because it because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course, buy this one.
 * GitHub
   * [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
@@ -97,8 +98,6 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Learn to code HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)
 * [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/)
 * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
-* [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
-* [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
 
 ---
 ### Learn CSS
@@ -154,6 +153,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
   * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
   * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - learn about the quirky parts of JS
+  * [JS - The Good Parts .pdf](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
   * [Learning js Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Reusable solutions to commonly occurring problems
   * [Asynchronous Module Definition](http://requirejs.org/docs/api.html)
 
@@ -208,6 +208,16 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Confessions of an Unintentional CTO - lessons in growing a web app](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto)
 
 ---
+### Learn Angular 4
+
+* Official Angular [Docs](https://angular.io)
+* Resources for learning Angular (https://angular.io/resources)
+ * [YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQThMU768hTZInWUqfoyTEW)
+ * [Maxmilan's bestseller angular course](https://www.udemy.com/the-complete-guide-to-angular-2/)
+ * [Coursetro](https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch)
+ * [Codecraft](https://codecraft.tv/courses/angular/quickstart/overview/)
+* [Top 30 free resources to learn Angular](https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)
+---
 ### Learn Node JS
 
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
@@ -225,10 +235,6 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
   * [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
   * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-* Optimization Techniques
-  * [Make your node server faster by caching responses with redis](https://community.risingstack.com/redis-node-js-introduction-to-caching/)
-   
-
 
 ---
 ### Learn Python
@@ -263,7 +269,6 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 ### Learn Authentication
 * [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 * [Learn about JSON Web Tokens](https://jwt.io/introduction/)
-* [JWT Sample App Example](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
 * [OAuth 2](https://aaronparecki.com/oauth-2-simplified/#web-server-apps)
 * [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)
 
