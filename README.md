@@ -55,6 +55,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * How to Learn.
   * Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
   * Repetition, Repetition, Repetition - [Reddit Discussion on study techniques](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
+  * What technologies to learn and strategies to learn them - [How to learn web development](https://codetheweb.blog/2017/10/04/how-to-learn-web-development/)
 
 ---
 ### What is the Single most useful CS Bookmark you have?
@@ -98,6 +99,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
 * [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
 * [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
+* [Learn HTML series - Code The Web](https://codetheweb.blog/learn/html/)
 
 ---
 ### Learn CSS
