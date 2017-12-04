@@ -213,7 +213,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
 * Resources for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
   * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
-  * [Colt Steele's Bootcamp](https://goo.gl/qTzEtx)
+  * [Colt Steele's Bootcamp](https://goo.gl/PkK4Ww)
   * [Node School](https://nodeschool.io/#workshoppers)
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
 * Courses/Tutorials
