@@ -370,7 +370,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [CS50 - Prep and Practice for Technical Interviews [YouTube]](https://youtu.be/qIi-tIrcaww?t=2m32s)
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * Common JavaScript Interview Questions Repo
-    * [GitHub Repo - All questions and answers](https://www.reddit.com/r/learnprogramming/comments/5sa35k/fun_github_repo_containing_common_interview/)
+    * [GitHub Repo - All questions and answers](https://github.com/kennymkchan/interview-questions-in-javascript)
     * [Reddit Post - Discussion, with additional questions and answers](https://www.reddit.com/r/learnprogramming/comments/5sa35k/fun_github_repo_containing_common_interview/)
   * [Ammon Bartram - Ask an interviewer anything: interview questions, answers, mistakes](https://www.reddit.com/r/cscareerquestions/comments/5y95x6/i_am_ammon_bartram_and_i_have_done_900/)
   * [Sharing some interview tips (Silicon valley employee)](https://www.reddit.com/r/cscareerquestions/comments/5w2oyn/sharing_some_interview_tips/)
