@@ -56,6 +56,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * How to Learn.
   * Coursera Course (Not CS Specific) - [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn)
   * Repetition, Repetition, Repetition - [Reddit Discussion on study techniques](https://www.reddit.com/r/learnprogramming/comments/5pyx5t/a_beginners_trick_i_learned_way_too_late_in_the/)
+  * What technologies to learn and strategies to learn them - [How to learn web development](https://codetheweb.blog/2017/10/04/how-to-learn-web-development/)
 
 ---
 ### What is the Single most useful CS Bookmark you have?
@@ -81,11 +82,10 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
 * Bootcamps
+  * [The Web Developer Bootcamp by Colt Steele](http://bit.ly/2yEYsoB). I include this paid course because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course to learn WebDev, buy this one. Also see - [The Advanced Web Dev Bootcamp](http://bit.ly/2z3TnGR)
   * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
   * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
   * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
-* Paid
-  * [The Web Developer Bootcamp by Colt Steele](https://goo.gl/qTzEtx). I include this paid course because it because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course, buy this one.
 * GitHub
   * [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
@@ -120,10 +120,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
   * [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
   * Javascript [The Right Way](http://jstherightway.org/)
-  * Courses.AngularClass.com - Topics Include: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
-    * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
-  * Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
-    * [[Edabit - Website Link]](https://edabit.com/explore) [[Reddit Post]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
+  * Edabit - [Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard](https://edabit.com/explore)
   * [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
   * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
   * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
@@ -223,7 +220,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
 * Resources for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
   * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
-  * [Colt Steele's Bootcamp](https://goo.gl/qTzEtx)
+  * [Colt Steele's Bootcamp](http://bit.ly/2yEYsoB)
   * [Node School](https://nodeschool.io/#workshoppers)
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
 * Courses/Tutorials
@@ -374,7 +371,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [CS50 - Prep and Practice for Technical Interviews [YouTube]](https://youtu.be/qIi-tIrcaww?t=2m32s)
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * Common JavaScript Interview Questions Repo
-    * [GitHub Repo - All questions and answers](https://www.reddit.com/r/learnprogramming/comments/5sa35k/fun_github_repo_containing_common_interview/)
+    * [GitHub Repo - All questions and answers](https://github.com/kennymkchan/interview-questions-in-javascript)
     * [Reddit Post - Discussion, with additional questions and answers](https://www.reddit.com/r/learnprogramming/comments/5sa35k/fun_github_repo_containing_common_interview/)
   * [Ammon Bartram - Ask an interviewer anything: interview questions, answers, mistakes](https://www.reddit.com/r/cscareerquestions/comments/5y95x6/i_am_ammon_bartram_and_i_have_done_900/)
   * [Sharing some interview tips (Silicon valley employee)](https://www.reddit.com/r/cscareerquestions/comments/5w2oyn/sharing_some_interview_tips/)
