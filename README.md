@@ -80,6 +80,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
+  * [Introduction to Modern Application Development](http://www.imad.tech)
 * Bootcamps
   * [The Web Developer Bootcamp by Colt Steele](http://bit.ly/2yEYsoB). I include this paid course because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course to learn WebDev, buy this one. Also see - [The Advanced Web Dev Bootcamp](http://bit.ly/2z3TnGR)
   * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
