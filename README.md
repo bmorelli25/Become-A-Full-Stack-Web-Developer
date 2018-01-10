@@ -18,7 +18,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 7. **[Learn JavaScript](#learn-javascript)**
 8. **[Learn React.js](#learn-react-js)**
 9. **[Full Stack Tutorials](#full-stack-tutorials)**
-10. **[Learn Angular 4](#learn-angular-4)**
+10. **[Learn Angular](#learn-angular)**
 11. **[Learn Node.js](#learn-node-js)**
 12. **[Learn Python](#learn-python)**
 13. **[Learn APIs](#learn-apis)**
@@ -205,15 +205,16 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Confessions of an Unintentional CTO - lessons in growing a web app](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto)
 
 ---
-### Learn Angular 4
+### Learn Angular
 
-* Official Angular [Docs](https://angular.io)
+* Official Angular [Docs](https://angular.io/docs)
 * Resources for learning Angular (https://angular.io/resources)
  * [YouTube](https://www.youtube.com/playlist?list=PLEsfXFp6DpzQThMU768hTZInWUqfoyTEW)
+ * [Top 30 free resources to learn Angular](https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)
+* Courses/Tutorials
  * [Maxmilan's bestseller angular course](https://www.udemy.com/the-complete-guide-to-angular-2/)
- * [Coursetro](https://coursetro.com/courses/12/Learn-Angular-4-from-Scratch)
- * [Codecraft](https://codecraft.tv/courses/angular/quickstart/overview/)
-* [Top 30 free resources to learn Angular](https://tutorialzine.com/2016/09/30-learning-resources-for-mastering-angular-2)
+ * [Learn Angular-5 from Scratch](https://coursetro.com/courses/19/Learn-Angular-5-from-Scratch---Angular-5-Tutorial)
+ * [Angular 5 from theory to practice](https://coursetro.com/courses/19/Learn-Angular-5-from-Scratch---Angular-5-Tutorial)
 ---
 ### Learn Node JS
 
