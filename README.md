@@ -214,7 +214,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * Courses/Tutorials
  * [Maxmilan's bestseller angular course](https://www.udemy.com/the-complete-guide-to-angular-2/)
  * [Learn Angular-5 from Scratch](https://coursetro.com/courses/19/Learn-Angular-5-from-Scratch---Angular-5-Tutorial)
- * [Angular 5 from theory to practice](https://coursetro.com/courses/19/Learn-Angular-5-from-Scratch---Angular-5-Tutorial)
+ * [Angular 5 from theory to practice](https://codecraft.tv/courses/angular/quickstart/overview/)
 ---
 ### Learn Node JS
 
