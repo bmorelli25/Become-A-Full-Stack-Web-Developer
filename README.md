@@ -91,6 +91,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 ---
 ### Learn HTML
 
+* [Programming Community Curated HTML5 Resources](https://hackr.io/tutorials/learn-html-5)
 * [Introduction to HTML - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 * [HTML5 Tutorial](http://www.html5tutorial.info)
 * [HTML5 Introduction EDX](https://www.edx.org/course/html5-introduction-w3cx-html5-0x-0)
@@ -104,6 +105,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 ---
 ### Learn CSS
 
+* [Programming Community Curated CSS Resources](https://hackr.io/tutorials/learn-css)
 * [Everything you need to know about Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc)
 * [Build a Minimalist HTML Card in just 53 lines of code (with Flexbox)](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)
 * A visual guide to CSS - [CSS Reference](http://cssreference.io/)
@@ -117,6 +119,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 
 * Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Courses/Tutorials
+  * [Programming Community Curated Java Resources](https://hackr.io/tutorials/learn-java)
   * [Recent News, Articles, Tutorials on JavaScript](https://codeburst.io/tagged/javascript)
   * [JavaScript for Beginners - Understand the hard stuff](https://codeburst.io/javascript-for-beginners-a-new-series-22762d8e5c42)
   * [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
@@ -211,6 +214,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 ---
 ### Learn Node JS
 
+* [Programming Community Curated NodeJS Resources](https://hackr.io/tutorials/learn-node-js)
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
 * Resources for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
   * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
@@ -233,6 +237,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 
 ---
 ### Learn Python
+* [Programming Community Curated Python Resources](https://hackr.io/tutorials/learn-python)
 * [15 Free e-books to learn Python](https://medium.com/@bmorelli25/15-free-ebooks-to-learn-python-c299943f9f2c)
 * [Programming Foundations with Python - Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [Designing RESTful APIs - Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
