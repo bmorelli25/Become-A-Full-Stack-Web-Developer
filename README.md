@@ -86,7 +86,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
   * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
 * Somewhere in between
-  * [Elewa Academy's Open Curriculum](https://elewa-academy.github.io): Complete bootcamp curriculum open-sourced. Designed for self & group study.
+  * [Developer Fundamentals](https://elewa-academy.github.io/Fundamentals): An approachable, structured series of projects that covers the fundmantals of software development.
 * GitHub
   * [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
