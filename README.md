@@ -77,7 +77,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [FreeCodeCamp](https://www.freecodecamp.com/)
   * [The Essential Web Developer Course](http://upskillcourses.com/p/essential-web-developer-course)
   * [Epicodus Programming Bootcamp Curriculum](https://www.learnhowtoprogram.com/courses)
-  * [Open-Source Bootcamp](https://elewa-academy.github.io/): An approachable, structured series of projects that covers the fundmantals of software development.
+  * [Open-Source Bootcamp](https://elewa-academy.github.io/) - An approachable, structured series of projects that covers the fundmantals of software development.
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
