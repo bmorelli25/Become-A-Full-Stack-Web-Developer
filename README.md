@@ -1,6 +1,6 @@
 ## 100+ Free resources for learning Full Stack Web Development.
 
-#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to my once-weekly newsletter!**
+#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please subscribe to the once-weekly newsletter!**
 
 ### [Subscribe To The Weekly Newsletter Here](https://docs.google.com/forms/d/e/1FAIpQLSeQYYmBCBfJF9MXFmRJ7hnwyXvMwyCtHC5wxVDh5Cq--VT6Fg/viewform)
 
@@ -41,7 +41,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 ---
 
 * Take a look at the big picture: 
-  * [Web Developer Roadpath - Github Repo](https://github.com/kamranahmedse/developer-roadmap)
+  * [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
   * YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
 * Learn about the common tools associated with full stack web development - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
 * [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
@@ -72,6 +72,11 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 
 ---
 ### Programs and Classes
+* Bootcamps
+  * [The Web Developer Bootcamp by Colt Steele](http://bit.ly/2yEYsoB). I include this paid course because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course to learn WebDev, buy this one. Also see - [The Advanced Web Dev Bootcamp](http://bit.ly/2z3TnGR)
+  * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
+  * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
+  * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
 * Programs
   * [The Odin Project](http://www.theodinproject.com/)
   * [FreeCodeCamp](https://www.freecodecamp.com/)
@@ -80,11 +85,6 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
-* Bootcamps
-  * [The Web Developer Bootcamp by Colt Steele](http://bit.ly/2yEYsoB). I include this paid course because it is worth its weight in gold. Inexpensive (less than $20) and one of the best resources out there. If you're going to buy one course to learn WebDev, buy this one. Also see - [The Advanced Web Dev Bootcamp](http://bit.ly/2z3TnGR)
-  * [Thoughts on Coding Boot camps](https://www.reddit.com/r/learnprogramming/comments/5ew1gs/thoughts_on_coding_boot_camps/)
-  * [The Complete Guide to Bootcamps](https://www.reddit.com/r/cscareerquestions/comments/506myw/the_complete_guide_to_bootcamps/)
-  * Self Study - My programming notes. 275 Pages of Content [[Updated Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5opg9k/my_programming_notes_275_pages_summaries_of/) [[Original Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/4iewun/my_programming_notes_141_pages_summaries_of/)
 * GitHub
   * [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
 
@@ -104,6 +104,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 ---
 ### Learn CSS
 
+* [25 HTML & CSS Tutorials](https://codeburst.io/25-html-css-tutorials-6a864f387185) - Learn HTML & CSS by exploring these 25 tutorials.
 * [Everything you need to know about Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nusbqoyuc)
 * [Build a Minimalist HTML Card in just 53 lines of code (with Flexbox)](https://codeburst.io/build-a-minimalist-html-card-in-just-53-lines-of-code-with-flexbox-b40801927eb5)
 * A visual guide to CSS - [CSS Reference](http://cssreference.io/)
@@ -117,6 +118,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 
 * Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Courses/Tutorials
+  * [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e) - Learn JavaScript and key concepts by exploring more than 60 organized tutorials!
   * [Recent News, Articles, Tutorials on JavaScript](https://codeburst.io/tagged/javascript)
   * [JavaScript for Beginners - Understand the hard stuff](https://codeburst.io/javascript-for-beginners-a-new-series-22762d8e5c42)
   * [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
@@ -173,6 +175,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Code academy React program](HTTPS://www.codeacademy.com)
   * [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md) - Use this link first
   * [Code Daily](https://codedaily.io/)
+  * [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac) - Learn React Native by exploring these 25 tutorials.
   * [Build a Todo Application with React Native](https://codedaily.io/courses/2/Build-a-React-Native-Todo-Application)
   * [Learn to Animate with React Native](https://codedaily.io/courses/1/Animate-React-Native-UI-Elements)
 * Medium Links:
@@ -212,6 +215,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 ### Learn Node JS
 
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
+* [25 Node JS Tutorials](https://codeburst.io/25-node-js-tutorials-1db3b1da0260) - Learn Node JS by exploring these 25 free tutorials.
 * Resources for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
   * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
   * [Colt Steele's Bootcamp](http://bit.ly/2yEYsoB)
