@@ -99,7 +99,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
 * [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
 * [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
-* [Learn HTML series - Code The Web](https://codetheweb.blog/learn/html/)
+* [Learn HTML (Full Tutorial Series) - Code The Web](https://codetheweb.blog/learn/html/)
 
 ---
 ### Learn CSS
@@ -112,6 +112,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
 * [Css Fundamentals - SoloLearn](https://www.sololearn.com/Course/CSS/)
 * [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
+* [Learn CSS (Full Tutorial Series) - Code The Web](https://codetheweb.blog/learn/CSS/)
 
 ---
 ### Learn JavaScript
