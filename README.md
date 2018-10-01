@@ -366,6 +366,8 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * Resume & LinkedIn
   * [What are some of the best resuмe formats you've seen?](https://www.reddit.com/r/cscareerquestions/comments/5gnmkj/what_are_some_of_the_best_resu%D0%BCe_formats_youve/)
   * [Model examples for Fullstack Developer LinkedIn profiles](https://www.reddit.com/r/cscareerquestions/comments/5f5e3f/what_are_some_model_examples_for_fullstack/)
+  * [How to write a great developer résumé and showcase your software engineering skills](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
+  * [An opinionated guide to writing developer resumes in 2017](https://medium.freecodecamp.org/how-to-write-a-good-resume-in-2017-b8ea9dfdd3b9)
 
 * Personal Projects
   * [Recruiters, what kind of CS projects impress?](https://www.reddit.com/r/cscareerquestions/comments/586lbg/recruiters_what_kind_of_cs_projects_impress/)
