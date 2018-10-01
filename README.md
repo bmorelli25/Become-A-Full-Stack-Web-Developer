@@ -263,6 +263,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Learn PostgreSQL (GitHub)](https://github.com/dwyl/learn-postgresql)
 * [Try Redis](https://try.redis.io/)
 * [Redis Tutorial](https://www.tutorialspoint.com/redis/)
+* [How to Create a Database Model From Scratch](http://www.vertabelo.com/blog/technical-articles/how-to-create-a-database-model-from-scratch)
 
 ---
 ### Learn Authentication
