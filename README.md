@@ -210,6 +210,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
 * [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
 * [Confessions of an Unintentional CTO - lessons in growing a web app](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto)
+* [Deploying a web app using AWS elastic beanstalk](https://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html)
 
 ---
 ### Learn Node JS
