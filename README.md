@@ -323,6 +323,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Up For Grabs - Browse a list of projects with curated tasks](http://up-for-grabs.net/#/)
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Open source activity held every October. Easy to participate, and you get a free t-shirt!
 * [I'm afraid if I say anything on GitHub people will laugh at me and I will die.](https://www.reddit.com/r/learnprogramming/comments/4pgb44/im_afraid_if_i_say_anything_on_github_people_will/)
+* [Top open source project ranked by professionals](https://medium.mybridge.co/)
 
 ---
 ### Am I Ready to be a Developer?
