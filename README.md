@@ -23,7 +23,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 12. **[Learn APIs](#learn-apis)**
 13. **[Learn Databases](#learn-databases)**
 14. **[Learn Authentication](#learn-authentication)**
-15. **[Learn Git](#learn-git)**
+15. **[Learn Git and GitHub](#learn-git)**
 16. **[Games & Challenge Websites](#games-and-challenge-websites)**
 17. **[Free Programming Books](#free-programming-books)**
 18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
@@ -273,7 +273,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)
 
 ---
-### Learn Git
+### Learn Git and GitHub
 * Official [Tutorial](https://try.github.io/levels/1/challenges/1) - Learn Git in 15 Minutes
 * Official [Docs](https://git-scm.com/documentation)
 * Other Tuts:
@@ -282,6 +282,8 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Learn Git in 30 Minutes - Article](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
   * [Here are all the Git commands I used last week and what they do (Medium)](https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52)
 * Why to Use GIT [No, I have no side projects to show you](https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit)
+* [What is GitHub](https://www.w3schools.com/whatis/whatis_github.asp)
+* [How to Use Git and GitHub](https://eu.udacity.com/course/how-to-use-git-and-github--ud775)
 
 ---
 ### Games and Challenge Websites
