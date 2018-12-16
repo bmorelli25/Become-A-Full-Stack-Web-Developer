@@ -23,7 +23,7 @@ _Never more than one email per week. Easy to unsubscribe. Your information will 
 12. **[Learn APIs](#learn-apis)**
 13. **[Learn Databases](#learn-databases)**
 14. **[Learn Authentication](#learn-authentication)**
-15. **[Learn Git and GitHub](#learn-git)**
+15. **[Learn Git and GitHub](#learn-git-and-github)**
 16. **[Games & Challenge Websites](#games-and-challenge-websites)**
 17. **[Free Programming Books](#free-programming-books)**
 18. **[Open Source Contribution Opportunities](#open-source-contribution-opportunities)**
@@ -40,12 +40,12 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 
 ---
 
-* Take a look at the big picture: 
+* Take a look at the big picture:
   * [2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
   * YouTube video outlining what to learn (similar to above, but in video format) - [Watch this if you want to become a web developer](https://www.youtube.com/watch?v=sBzRwzY7G-k)
 * Learn about the common tools associated with full stack web development - [What is the A-Z of Web Development?](https://www.quora.com/What-is-the-A-Z-of-web-development-and-web-design)
 * [My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)](https://medium.freecodecamp.com/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.vk5vkb18q) (Medium)
-* What happens when you type google into your address bar? 
+* What happens when you type google into your address bar?
   * [Reddit Link](https://www.reddit.com/r/cscareerquestions/comments/55ydbs/common_interview_question_what_happens_when_you/)
   * [Tuts Plus - The http protocol every web developer must know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * Find a local Web Development related [Meetup!](https://www.meetup.com/) Don't worry, it's not as scary as you might think, and is one of the best ways to start learning
@@ -232,7 +232,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * Optimization Techniques
   * [Make your node server faster by caching responses with redis](https://community.risingstack.com/redis-node-js-introduction-to-caching/)
-   
+
 
 
 ---
@@ -357,7 +357,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 ### Get The Job
 **Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**
 * Make your portfolio
-  * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox. 
+  * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox.
   * [10 Awesome Web Developer Portfolios](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)
 
 * How to Apply
@@ -394,7 +394,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Salary Negotiations and how not to set a bunch of money on fire (Medium)](https://medium.freecodecamp.com/salary-negotiation-how-not-to-set-a-bunch-of-money-on-fire-605aabbaf84b#.75xz4zut8)
   * [10 Rules for negotiating a job offer (Medium)](https://medium.freecodecamp.com/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6#.g8u1wnyw8)
   * [How not to bomb your offer negotiation (Medium)](https://medium.freecodecamp.com/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea#.vdfc82rl7)
-  
+
 ---
 ### Assorted Links
 
