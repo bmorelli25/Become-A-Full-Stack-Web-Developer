@@ -210,6 +210,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
 * [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
 * [Confessions of an Unintentional CTO - lessons in growing a web app](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto)
+* [Build a Laravel CRUD Application From Scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
 
 ---
 ### Learn Node JS
@@ -403,3 +404,5 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Google University GitHub Repo](https://github.com/jwasham/coding-interview-university)
 * [Regex 101 by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YEypLuls7iidwHMdCM6o2w)
 * [20 Developers to Follow on Twitter](https://codeburst.io/best-web-developers-to-follow-on-twitter-9318a3f6525a)
+* [44 More Developers to Follow on Twitter](https://www.codewall.co.uk/accounts-for-developers-to-follow-on-twitter/)
+* [200 Female Developers to Follow on Twitter](https://www.codewall.co.uk/female-developers-to-follow-on-twitter/)
