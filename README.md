@@ -149,7 +149,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 
 * Projects
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
-  * [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
+  * [Learn to Code with Projects - enlight.nyc](https://enlight.nyc/)
   * **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
 * Articles/Books
   * [Three awesome (and free) eBooks for learning JavaScript](https://codeburst.io/three-awesome-and-free-ebooks-for-learning-javascript-c874f65bbd7a)
