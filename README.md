@@ -265,6 +265,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Learn PostgreSQL (GitHub)](https://github.com/dwyl/learn-postgresql)
 * [Try Redis](https://try.redis.io/)
 * [Redis Tutorial](https://www.tutorialspoint.com/redis/)
+* [DBMS Interview Guide](https://www.interviewbit.com/dbms-interview-questions/)
 
 ---
 ### Learn Authentication
