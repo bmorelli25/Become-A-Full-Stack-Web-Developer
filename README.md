@@ -100,6 +100,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
 * [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
 * [Learn HTML series - Code The Web](https://codetheweb.blog/learn/html/)
+* [HTML Interview Guide](https://www.interviewbit.com/html-interview-questions/)
 
 ---
 ### Learn CSS
@@ -112,6 +113,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29#.y6p8vkehd)
 * [Css Fundamentals - SoloLearn](https://www.sololearn.com/Course/CSS/)
 * [CSS Cheat Sheet](https://websitesetup.org/css3-cheat-sheet/)
+* [CSS Interview Guide](https://www.interviewbit.com/css-interview-questions/)
 
 ---
 ### Learn JavaScript
@@ -146,6 +148,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [JavaScript — What’s the difference between Null & Undefined?](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
   * [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
   * [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+  * [JavaScript Interview Guide](https://www.interviewbit.com/javascript-interview-questions/)
 
 * Projects
   * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
@@ -232,8 +235,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * Optimization Techniques
   * [Make your node server faster by caching responses with redis](https://community.risingstack.com/redis-node-js-introduction-to-caching/)
-   
-
+  * [Node JS Interview Guide](https://www.interviewbit.com/node-js-interview-questions/)
 
 ---
 ### Learn Python
@@ -263,6 +265,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Learn PostgreSQL (GitHub)](https://github.com/dwyl/learn-postgresql)
 * [Try Redis](https://try.redis.io/)
 * [Redis Tutorial](https://www.tutorialspoint.com/redis/)
+* [DBMS Interview Guide](https://www.interviewbit.com/dbms-interview-questions/)
 
 ---
 ### Learn Authentication
@@ -282,6 +285,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Learn Git in 30 Minutes - Article](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
   * [Here are all the Git commands I used last week and what they do (Medium)](https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52)
 * Why to Use GIT [No, I have no side projects to show you](https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit)
+* [Git Interview Guide](https://www.interviewbit.com/git-interview-questions/)
 
 ---
 ### Games and Challenge Websites
