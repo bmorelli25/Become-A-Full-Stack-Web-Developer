@@ -79,7 +79,7 @@ I've still got a lot of bookmarks to go through, so I'll be updating and adding 
 
 ---
 ### Learn HTML
-*Anyone have any cool HTML links?*
+* Complete [HTML](https://www.w3schools.com/html/)
 
 ---
 ### Learn CSS
