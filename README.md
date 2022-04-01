@@ -82,6 +82,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [FreeCodeCamp](https://www.freecodecamp.com/)
   * [The Essential Web Developer Course](http://upskillcourses.com/p/essential-web-developer-course)
   * [Epicodus Programming Bootcamp Curriculum](https://www.learnhowtoprogram.com/courses)
+  * [Scaler Web Development Course](https://www.scaler.com/courses/web-development/)
 * Classes
   * [SANITIZED list of 530+ free online programming/CS courses (MOOCs) with feedback(i.e. exams/homeworks/assignments) that you can start this month (December 2016)](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/) - *Needs Updating*
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
@@ -240,6 +241,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [15 Free e-books to learn Python](https://medium.com/@bmorelli25/15-free-ebooks-to-learn-python-c299943f9f2c)
 * [Programming Foundations with Python - Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [Designing RESTful APIs - Udacity](https://www.udacity.com/course/designing-restful-apis--ud388)
+* [Free Resources to Learn Python](https://www.scaler.com/topics/python/)
 
 ---
 ### Learn APIs
