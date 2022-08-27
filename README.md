@@ -87,6 +87,8 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
 * GitHub
   * [A Step by Step Guide to Making Your First GitHub Contribution](https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940)
+* Course comparison platforms
+  * [bestcourses - discover & compare courses from dozens of online learning platforms](https://bestcourses.io/)
 
 ---
 ### Learn HTML
