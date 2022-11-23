@@ -100,6 +100,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
 * [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
 * [Learn HTML series - Code The Web](https://codetheweb.blog/learn/html/)
+* [Learn HTML in Detail - Scaler Topics](https://www.scaler.com/topics/html/)
 
 ---
 ### Learn CSS
