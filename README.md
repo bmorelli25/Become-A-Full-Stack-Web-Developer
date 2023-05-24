@@ -263,6 +263,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Learn PostgreSQL (GitHub)](https://github.com/dwyl/learn-postgresql)
 * [Try Redis](https://try.redis.io/)
 * [Redis Tutorial](https://www.tutorialspoint.com/redis/)
+* [HarperDB Tutorial](https://docs.harperdb.io/docs/custom-functions/example-projects)
 
 ---
 ### Learn Authentication
