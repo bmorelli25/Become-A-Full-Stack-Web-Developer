@@ -131,7 +131,8 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
   * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
   * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
-* Understanding Tougher Topics  
+* Understanding Tougher Topics 
+  * [Is javascript compiled or interpreted language?](https://dev.to/robiulhr/is-javascript-compiled-or-interpreted-language-l20)
   * [JavaScript - The keyword 'this' for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85)
   * [JavaScript - Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc)
   * [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
@@ -221,6 +222,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Colt Steele's Bootcamp](http://bit.ly/2yEYsoB)
   * [Node School](https://nodeschool.io/#workshoppers)
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
+  * [What is Node.js Exactly? - Real World Example](https://robiul.dev/what-is-nodejs-exactly-real-world-example)
 * Courses/Tutorials
   * [Three awesome courses for learning Node.js (Paid courses under $20)](https://codeburst.io/three-awesome-courses-for-learning-node-js-d7f761437101)
   * [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
