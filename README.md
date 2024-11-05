@@ -318,7 +318,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 * [Make your first open source contribution in 5 minutes](https://github.com/Roshanjossey/first-contributions)
 * [How do I get skilled enough to work on open source projects?](https://www.reddit.com/r/learnprogramming/comments/4xts2c/how_do_i_get_skilled_enough_to_work_on_open/)
 * [Exercism](https://github.com/exercism/exercism.io), an open source project to learn programming and a good opportunity to get you started contributing on github.
-* Open Source Contribution Opportunites [[Reddit Discussion]](https://www.reddit.com/r/learnprogramming/comments/5wgefy/many_devs_here_on_reddit_and_on_slack_were_asking/)
+* Open Source Contribution opportunities [[Reddit Discussion]](https://www.reddit.com/r/learnprogramming/comments/5wgefy/many_devs_here_on_reddit_and_on_slack_were_asking/)
   * [Redditor Form to fill out to get notified about Open Source Opportunities](https://devchat.devolio.net/hellocode/)
   * [Up For Grabs - Browse a list of projects with curated tasks](http://up-for-grabs.net/#/)
 * [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - Open source activity held every October. Easy to participate, and you get a free t-shirt!
