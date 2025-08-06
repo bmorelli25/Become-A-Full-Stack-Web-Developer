@@ -189,6 +189,8 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
 ### Full Stack Tutorials
 
 * [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
+* [FullStack Dev resource for Indian Audience](https://www.codewithharry.com/)
+* [Another Great Resource for Indian Developers](https://www.codehelp.in/)
 * [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 * [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 * [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
