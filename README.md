@@ -186,6 +186,14 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [React Native: Nine Animation Screencast Tutorials](https://codeburst.io/react-native-nine-animation-screencast-tutorials-9d031e8bb86f)
 
 ---
+### Learn Next JS, Deployement, etc
+
+* After completing React move ahead and learn NextJS
+  * Official Next [DOCS](https://nextjs.org)
+* Deploy your Projects on these platforms:-
+  * Official Vercel [Vercel] (https://vercel.com)
+  * Official Render [Render] (https://render.com)
+---
 ### Full Stack Tutorials
 
 * [Intro to Back End Web Development](https://www.udacity.com/course/intro-to-backend--ud171)
