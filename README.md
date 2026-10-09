@@ -68,6 +68,7 @@ More free resources can be found on [codeburst.io](https://codeburst.io)
   * [Regex Cheat Sheet](http://regexr.com/)
   * [DevDocs](http://devdocs.io)
   * [Awesome List of Everything Programming](https://github.com/sindresorhus/awesome)
+  * [Nutilz](https://nutilz.com/) - 23 free browser-based developer utilities: regex tester, JSON formatter, unit converter, and calculators. No sign-up required.
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 
 ---
